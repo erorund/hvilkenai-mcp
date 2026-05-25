@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.erorund/hvilkenai-mcp",
+  "description": "Daily Scandinavian AI language quality benchmark. Query real-time data on 12+ AI models tested on Norwegian, Swedish, and Danish practical tasks.",
+  "repository": {
+    "url": "https://github.com/erorund/hvilkenai-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [{
+    "url": "https://mcp.hvilkenai.no/mcp",
+    "transportType": "streamable-http"
+  }]
+}

@@ -1,0 +1,4 @@
+startCommand:
+  type: remote
+  url: https://mcp.hvilkenai.no/mcp
+  deploymentUrl: https://mcp.hvilkenai.no/mcp
